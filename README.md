@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository is starter template of [Phaser3](https://phaser.io/).
+This repository is text of [Phaser3](https://phaser.io/) x [Nintendo Switch Pro Controller](https://www.nintendo.com/jp/hardware/switch/accessories/index.html)
 
 ## Development environment
 
@@ -55,4 +55,4 @@ This repository is starter template of [Phaser3](https://phaser.io/).
   - [Phaser3](https://phaser.io/)
   - [Gamepad example | Phaser3](https://phaser.io/examples/v3.85.0/input/gamepad)
 - Controller
-  - [Nintendo Switch Pro コントローラー](https://www.nintendo.com/jp/hardware/switch/accessories/index.html)
+  - [Nintendo Switch Pro Controller](https://www.nintendo.com/jp/hardware/switch/accessories/index.html)
