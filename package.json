@@ -1,0 +1,26 @@
+{
+  "name": "pub_game_phaser_nintendo-switch-pro-controller_test",
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "format": "npx @biomejs/biome check --write ./src",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/node": "^22.14.0",
+    "dotenv": "^16.4.7",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.1",
+    "vitest": "^3.0.8"
+  },
+  "dependencies": {
+    "phaser": "^3.88.2"
+  }
+}
