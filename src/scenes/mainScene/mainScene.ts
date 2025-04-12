@@ -322,7 +322,7 @@ export class MainScene extends Phaser.Scene {
     this.renderControllerInitialStatusText();
   }
 
-  update(): void {
+  update() {
     if (!this.pad) return;
     // left stick
     this.texts[0].text = `left stick axes x: ${this.pad.axes[0].getValue()}`;
